@@ -1,0 +1,5 @@
+*.xlsx binary
+*.png binary
+*.gz binary
+*.md text eol=lf
+*.ipynb text eol=lf
